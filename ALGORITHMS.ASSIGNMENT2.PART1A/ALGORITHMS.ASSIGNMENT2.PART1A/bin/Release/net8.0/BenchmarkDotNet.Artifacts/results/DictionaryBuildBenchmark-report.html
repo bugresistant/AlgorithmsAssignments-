@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>DictionaryBuildBenchmark-20250522-175638</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.14.0, Windows 11 (10.0.22631.5335/23H2/2023Update/SunValley3)
+12th Gen Intel Core i5-1240P, 1 CPU, 16 logical and 12 physical cores
+.NET SDK 8.0.409
+  [Host]     : .NET 8.0.16 (8.0.1625.21506), X64 RyuJIT AVX2
+  DefaultJob : .NET 8.0.16 (8.0.1625.21506), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Gen0</th><th>Gen1</th><th>Gen2</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>BuildLinear</td><td>18.196 ms</td><td>0.5091 ms</td><td>1.5011 ms</td><td>1625.0000</td><td>1468.7500</td><td>906.2500</td><td>9.74 MB</td>
+</tr><tr><td>BuildBst</td><td>72.744 ms</td><td>1.4133 ms</td><td>1.4514 ms</td><td>2428.5714</td><td>1857.1429</td><td>1000.0000</td><td>13.92 MB</td>
+</tr><tr><td>BuildHashSet</td><td>6.082 ms</td><td>0.1170 ms</td><td>0.1095 ms</td><td>992.1875</td><td>992.1875</td><td>992.1875</td><td>8.11 MB</td>
+</tr><tr><td>BuildTrie</td><td>120.050 ms</td><td>2.3717 ms</td><td>2.9995 ms</td><td>11000.0000</td><td>6600.0000</td><td>2000.0000</td><td>59.72 MB</td>
+</tr></tbody></table>
+</body>
+</html>

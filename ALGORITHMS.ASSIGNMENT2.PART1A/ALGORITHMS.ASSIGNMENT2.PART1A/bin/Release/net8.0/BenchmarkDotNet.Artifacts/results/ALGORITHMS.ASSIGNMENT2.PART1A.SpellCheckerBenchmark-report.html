@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>ALGORITHMS.ASSIGNMENT2.PART1A.SpellCheckerBenchmark-20250522-174310</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.14.0, Windows 11 (10.0.22631.5335/23H2/2023Update/SunValley3)
+12th Gen Intel Core i5-1240P, 1 CPU, 16 logical and 12 physical cores
+.NET SDK 8.0.409
+  [Host]     : .NET 8.0.16 (8.0.1625.21506), X64 RyuJIT AVX2
+  DefaultJob : .NET 8.0.16 (8.0.1625.21506), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>TextFileName  </th><th>Mean     </th><th>Error  </th><th>StdDev  </th><th>Median   </th><th>Gen0</th><th>Gen1</th><th>Gen2</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>LinearCheck</td><td>Alice(...)d.txt [21]</td><td>3,674,634.70 &mu;s</td><td>62,164.963 &mu;s</td><td>103,863.697 &mu;s</td><td>3,640,039.25 &mu;s</td><td>-</td><td>-</td><td>-</td><td>43.33 KB</td>
+</tr><tr><td>BstCheck</td><td>Alice(...)d.txt [21]</td><td>14,892.29 &mu;s</td><td>281.658 &mu;s</td><td>324.357 &mu;s</td><td>14,803.75 &mu;s</td><td>-</td><td>-</td><td>-</td><td>42.95 KB</td>
+</tr><tr><td>HashSetCheck</td><td>Alice(...)d.txt [21]</td><td>941.27 &mu;s</td><td>6.331 &mu;s</td><td>5.613 &mu;s</td><td>939.77 &mu;s</td><td>32.2266</td><td>11.7188</td><td>11.7188</td><td>731.43 KB</td>
+</tr><tr><td>TrieCheck</td><td>Alice(...)d.txt [21]</td><td>1,369.15 &mu;s</td><td>6.844 &mu;s</td><td>10.451 &mu;s</td><td>1,369.01 &mu;s</td><td>5.8594</td><td>-</td><td>-</td><td>42.94 KB</td>
+</tr><tr><td>LinearCheck</td><td>medium.txt</td><td>2,288,662.39 &mu;s</td><td>41,178.695 &mu;s</td><td>91,249.151 &mu;s</td><td>2,247,247.80 &mu;s</td><td>-</td><td>-</td><td>-</td><td>23.65 KB</td>
+</tr><tr><td>BstCheck</td><td>medium.txt</td><td>9,480.67 &mu;s</td><td>114.755 &mu;s</td><td>107.342 &mu;s</td><td>9,516.16 &mu;s</td><td>-</td><td>-</td><td>-</td><td>23.26 KB</td>
+</tr><tr><td>HashSetCheck</td><td>medium.txt</td><td>662.34 &mu;s</td><td>8.853 &mu;s</td><td>7.848 &mu;s</td><td>665.24 &mu;s</td><td>30.2734</td><td>9.7656</td><td>9.7656</td><td>651.36 KB</td>
+</tr><tr><td>TrieCheck</td><td>medium.txt</td><td>853.81 &mu;s</td><td>11.903 &mu;s</td><td>11.134 &mu;s</td><td>849.60 &mu;s</td><td>2.9297</td><td>-</td><td>-</td><td>23.26 KB</td>
+</tr><tr><td>LinearCheck</td><td>small.txt</td><td>189,153.83 &mu;s</td><td>3,774.004 &mu;s</td><td>4,194.796 &mu;s</td><td>189,081.43 &mu;s</td><td>-</td><td>-</td><td>-</td><td>2.91 KB</td>
+</tr><tr><td>BstCheck</td><td>small.txt</td><td>742.88 &mu;s</td><td>14.577 &mu;s</td><td>19.460 &mu;s</td><td>742.05 &mu;s</td><td>-</td><td>-</td><td>-</td><td>2.78 KB</td>
+</tr><tr><td>HashSetCheck</td><td>small.txt</td><td>13.29 &mu;s</td><td>0.193 &mu;s</td><td>0.181 &mu;s</td><td>13.35 &mu;s</td><td>7.0648</td><td>0.5341</td><td>-</td><td>43.32 KB</td>
+</tr><tr><td>TrieCheck</td><td>small.txt</td><td>53.37 &mu;s</td><td>0.723 &mu;s</td><td>0.914 &mu;s</td><td>52.99 &mu;s</td><td>0.4272</td><td>-</td><td>-</td><td>2.78 KB</td>
+</tr></tbody></table>
+</body>
+</html>

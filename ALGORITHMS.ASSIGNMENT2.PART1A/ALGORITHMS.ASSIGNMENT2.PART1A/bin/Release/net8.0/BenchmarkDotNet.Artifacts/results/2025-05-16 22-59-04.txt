@@ -1,0 +1,26 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the CSV benchmark results
+csv_path = "/mnt/data/ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-report.csv"
+df = pd.read_csv(csv_path)
+
+# Clean the 'Mean' column: remove any non-digit/dot characters, then convert to float
+df['Mean'] = df['Mean'].str.replace(r'[^\d\.]', '', regex=True).astype(float)
+
+# Display the cleaned key columns
+df_display = df[["Method", "Mean", "Error", "StdDev", "Allocated"]]
+import ace_tools as tools; tools.display_dataframe_to_user(name="Cleaned Benchmark Results", dataframe=df_display)
+
+# Convert Mean from microseconds to milliseconds for better readability
+df["Mean_ms"] = df["Mean"] / 1000
+
+# Plot a bar chart with logarithmic y-axis using matplotlib
+plt.figure(figsize=(8, 5))
+plt.bar(df["Method"], df["Mean_ms"])
+plt.yscale("log")
+plt.xlabel("Method")
+plt.ylabel("Mean Time (ms, log scale)")
+plt.title("SpellChecker Benchmark Results (Log Scale)")
+plt.tight_layout()
+plt.show()

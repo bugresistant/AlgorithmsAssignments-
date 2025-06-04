@@ -1,0 +1,172 @@
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-boxplot.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-barplot.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-facetDensity.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-facetDensity.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-DefaultJob-timeline.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-DefaultJob-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-DefaultJob-cummean.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-DefaultJob-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-facetTimeline.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-LinearCheck-cummean.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-facetDensity.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-facetDensity.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-DefaultJob-timeline.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-DefaultJob-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-DefaultJob-cummean.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-DefaultJob-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-facetTimeline.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-BstCheck-cummean.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-facetDensity.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-facetDensity.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-DefaultJob-timeline.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-DefaultJob-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-DefaultJob-cummean.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-DefaultJob-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-facetTimeline.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-HashSetCheck-cummean.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-facetDensity.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-facetDensity.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-DefaultJob-timeline.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-DefaultJob-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-DefaultJob-cummean.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-DefaultJob-density.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-facetTimeline.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\dev\ALGORITHMS.ASSIGNMENT2.PART1\ALGORITHMS.ASSIGNMENT2.PART1\bin\Release\net8.0\BenchmarkDotNet.Artifacts\results\ALGORITHMS.ASSIGNMENT2.PART1.SpellCheckerBenchmark-TrieCheck-cummean.png ***
+------------------------------
+Attaching package: 'dplyr'
+The following objects are masked from 'package:stats':
+    filter, lag
+The following objects are masked from 'package:base':
+    intersect, setdiff, setequal, union
+Attaching package: 'gdata'
+The following objects are masked from 'package:dplyr':
+    combine, first, last, starts_with
+The following object is masked from 'package:stats':
+    nobs
+The following object is masked from 'package:utils':
+    object.size
+The following object is masked from 'package:base':
+    startsWith
+Attaching package: 'tidyr'
+The following object is masked from 'package:gdata':
+    starts_with
+Attaching package: 'gridExtra'
+The following object is masked from 'package:gdata':
+    combine
+The following object is masked from 'package:dplyr':
+    combine
+R.devices v2.17.2 (2024-01-29 13:30:11 UTC) successfully loaded. See ?R.devices for help.
+`summarise()` has grouped output by 'Target_Method'. You can override using the
+`.groups` argument.
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+There were 21 warnings (use warnings() to see them)
